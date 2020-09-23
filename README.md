@@ -5,7 +5,7 @@ Home: http://www.poissonboltzmann.org/
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: PDB2PQR: an automated pipeline for the setup of Poisson-Boltzmann electrostatics calculations. This version is from the htmd-fixups branch with few fixes to use propka30 with python3
 
